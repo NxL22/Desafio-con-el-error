@@ -21,6 +21,7 @@ header img{
 .description{
     padding: 8% 15%;
     box-sizing: border-box;
+    display: inline-block;
 }
 .description_parrafo{
     width: 49%;
